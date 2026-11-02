@@ -1,4 +1,5 @@
 # Used Vehicle Listings: Exploratory Data Analysis
+![Project cover](<img width="1200" height="627" alt="cars-data-analysis-cover" src="https://github.com/user-attachments/assets/e45bedca-690f-49eb-83ef-3ed29d28bc38" />
 
 Exploratory data analysis of 15,049 used-vehicle listings (Craigslist) using Python. The notebook cleans the data and answers 12 business-style questions about manufacturers, prices, vehicle types, conditions, fuel types and mileage.
 
